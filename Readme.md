@@ -42,7 +42,3 @@ No caso, o meu pessoal apenas eu tenho acesso e vou mostrar como que organizo mi
 **9. Engenharia de software:** esse é o curso que eu estou fazendo atualmente, já sou formada em ADS mas sigo pra me tornar engenheira. Essa parte eu deixo dividida por semestres e cada um deles tem todas as matérias cursadas.
 
 **10. Trabalho:** por fim eu deixo aqui minhas coisas do trabalho. Eu acabo usando menos aqui no meu Notion, por termos a nossa própria organização da equipe. Divido entre as áreas dentro da Alura que trabalho: escola front-end, imersão dev e hipsters.talks
-
-#### Workspace da staff da comunidade:
-
-**1. **
