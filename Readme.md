@@ -1,7 +1,7 @@
 
 # Como organizo minha vida de dev no Notion
 
-### O que é o Notion
+### O que é o Notion na pratica?
 
 É uma plataforma para organização de vida! Sério gente, qualquer coisa que você queira organizar de certa forma você consegue fazer por aqui.
 
