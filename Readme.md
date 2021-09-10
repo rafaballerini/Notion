@@ -1,5 +1,5 @@
 
-# Como organizo minha vida de dev no Notion
+# Como organizo minha vida no Notion e um tour pelo meu Workspace
 
 ### O que é o Notion na pratica?
 
