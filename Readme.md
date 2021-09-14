@@ -3,6 +3,8 @@
 
 [Nesse vídeo](https://www.youtube.com/watch?v=uy90T_4F1xE) mostrarem como organizo a minha rotina no Notion 
 
+![Capa do meu Notion](https://cdn.discordapp.com/attachments/639956127056134178/887325164440780830/unknown.png)
+
 ### O que é o Notion na pratica?
 
 É uma plataforma para organização de vida! Sério gente, qualquer coisa que você queira organizar de certa forma você consegue fazer por aqui.
