@@ -1,6 +1,8 @@
 
 # Como organizo minha vida no Notion e um tour pelo meu Workspace
 
+[Nesse vídeo](https://www.youtube.com/watch?v=uy90T_4F1xE) mostrarem como organizo a minha rotina no Notion 
+
 ### O que é o Notion na pratica?
 
 É uma plataforma para organização de vida! Sério gente, qualquer coisa que você queira organizar de certa forma você consegue fazer por aqui.
@@ -11,7 +13,7 @@ Ele existe tanto na versão de navegador, quanto em aplicativo e desktop, que po
 
 ### Como utilizar
 
-Basta entrar no [site](https://www.notion.so/pt-br) e criar a sua conta.
+Basta entrar no [site](https://ntn.so/rafaellanotion) e criar a sua conta.
 
 Depois você fará um tutorial no formato de "road map" pra entender como funciona para criar tabelas, listas ou usar os templates já prontos.
 
